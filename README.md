@@ -3,13 +3,21 @@
 
 **Repository:** [github.com/kasparsgreizis/Project-Gemini-Blood-Moon](https://github.com/kasparsgreizis/Project-Gemini-Blood-Moon)
 
-![Project Status](https://img.shields.io/badge/Status-Strategic%20Research-blue)
+![Project Status](https://img.shields.io/badge/Status-Format%20Optimization-blue)
 ![Event Date](https://img.shields.io/badge/Event%20Date-Sep%207%202025-red)
-![Budget Range](https://img.shields.io/badge/Budget-€93k--180k-green)
-![Location](https://img.shields.io/badge/Location-Riga%20Latvia-orange)
+![Format](https://img.shields.io/badge/Format-Intimate%20DJ%20Set-purple)
+![Budget Range](https://img.shields.io/badge/Budget-€15k--35k-green)
+![Capacity](https://img.shields.io/badge/Capacity-50--80%20people-orange)
 
 ## Mission
-Organize a live, multi-band audiovisual festival on a rooftop in Riga, Latvia, during the **September 7, 2025 total lunar eclipse**. Produce a cinematic-quality live stream and professional recording to promote local artists while showcasing this rare astronomical event.
+**UPDATED FORMAT:** Following comprehensive safety and regulatory research, the project has evolved to an **intimate DJ set experience** for 50-80 curated guests.
+
+**"Blood Moon Sessions"** - A sophisticated rooftop DJ experience during the **September 7, 2025 total lunar eclipse**. Featuring carefully selected DJs, professional audio setup, and live streaming to showcase this rare astronomical event while ensuring safety and regulatory compliance.
+
+### Format Evolution
+- **Original:** Large-scale multi-band festival (300-500 people, €93k-180k)
+- **Recommended:** Intimate DJ set (50-80 people, €15k-35k)
+- **Key Benefits:** 70-80% risk reduction, simplified permits, positive ROI
 
 ## Project Structure
 ```
