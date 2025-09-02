@@ -25,7 +25,11 @@
 ├── legal/            # Permits, forms, and legal documentation
 ├── sponsors/         # Sponsorship materials and contacts
 ├── logistics/        # Venue and technical requirements
-└── docs/             # Compiled reports and presentations
+├── docs/             # Compiled reports and presentations
+└── assets/           # Visual references and design assets
+    ├── visual-references/  # Inspiration images and mood boards
+    ├── design-output/      # Final designs and brand assets
+    └── raw-materials/      # Working files and sketches
 ```
 
 ## Key Dates
@@ -41,9 +45,23 @@
 3. **Brand Sponsorships**: Partner with audio/music brands for equipment and promotion
 4. **Content Creation**: Produce professional live stream and recordings
 
-## Initial Research Focus
+## Visual Assets & Design System
+**NEW:** Centralized visual references for AI agent collaboration
+- **📁 Visual References:** [assets/visual-references/](assets/visual-references/) - Inspiration and mood boards
+- **🎨 Quick Setup Guide:** [assets/QUICK-SETUP-GUIDE.md](assets/QUICK-SETUP-GUIDE.md) - Fast workflow for adding images
+- **📖 Documentation:** [assets/README-VISUAL-ASSETS.md](assets/README-VISUAL-ASSETS.md) - Complete system overview
+
+### **Key Categories:**
+- **Mood Boards** - Overall aesthetic direction and emotional tone
+- **Eclipse Photography** - Astronomical and visual references for the core event theme
+- **Rooftop Venues** - Space design and layout optimization for personal venue
+- **DJ Setups** - Equipment layouts and professional booth configurations
+- **Lighting Design** - Technical and aesthetic lighting inspiration
+- **Branding** - Typography, logos, and brand identity development
+
+## Research Documentation
 - Municipal permits and regulations in Riga
-- Noise ordinances for residential areas
+- Noise ordinances for residential areas  
 - Sponsorship opportunities with local/international brands
 - Technical requirements for live streaming infrastructure
 
